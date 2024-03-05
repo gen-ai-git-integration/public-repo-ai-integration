@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// hello world, a silly manatee wrote this code
+// Hello world, a silly manatee wrote this code
 
 int main() {
     printf("Hello, World!\n");
