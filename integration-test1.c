@@ -1,4 +1,5 @@
-//Im griefing
+// Multitasking 2.0
+
 #include <stdio.h>
 
 // hello world, a silly manatee wrote this code!!!
